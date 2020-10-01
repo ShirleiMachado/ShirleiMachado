@@ -15,7 +15,9 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/@schiufreitas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@schiufreitas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shirleifmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shirleifmachado" height="30" width="40" /></a>
+<a href="https://instagram.com/@schiufreitas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@schiufreitas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
