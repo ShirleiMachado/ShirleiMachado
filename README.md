@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleimachado" alt="shirleimachado" /> </p>
 
-- 🌱 I’m currently learning **Vue, Docker**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [under construction](under construction)
 
