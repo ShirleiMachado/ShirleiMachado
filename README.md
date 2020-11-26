@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleimachado&label=Profile%20views&color=0e75b6&style=flat" alt="shirleimachado" /> </p>
 
-<p align="left"> <a href="https://twitter.com/schiufreitas" target="blank"><img src="https://img.shields.io/twitter/follow/schiufreitas?logo=twitter&style=for-the-badge" alt="schiufreitas" /></a> </p>
-
 - 🌱 I’m currently learning **Python e Django**
 
 - 👨‍💻 All of my projects are available at [under construction](under construction)
@@ -28,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirleimachado&show_icons=true&locale=en&layout=compact" alt="shirleimachado" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirleimachado&show_icons=true&locale=en" alt="shirleimachado" /></p>
+
