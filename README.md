@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleimachado&label=Profile%20views&color=0e75b6&style=flat" alt="shirleimachado" /> </p>
 
-- 🌱 I’m currently learning **Python e Django**
+- 🌱 I’m currently learning **Chatbot**
 
 - 👨‍💻 All of my projects are available at [under construction](under construction)
 
