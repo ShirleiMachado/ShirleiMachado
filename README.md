@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Schiu</h1>
-<h3 align="center">A passionate Backend developer from Brasil</h3>
+
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=shirleiMachado&bg=black&fill=white&avatar=false)](https://github.com/Shirlei-Machado/github-readme-generator)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleimachado&label=Profile%20views&color=0e75b6&style=flat" alt="shirleimachado" /> </p>
 
-- 🌱 I’m currently learning **Java, Azure**
+- 🌱 I’m currently learning **Java, JavaScript**
 
-- 💬 Ask me about **NodeJs, ReactJs, Python**
+- 💬 Ask me about **NodeJs, ReactJs, Spring Boot**
 
 - 📫 How to reach me **schiufreitas@gmail.com**
 
